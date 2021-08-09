@@ -11,8 +11,13 @@
            <p  align="center">Loco de la coctelería 🍹 y amante del café ☕ . </p>
 
 
+---
 
-- 🔭 Estoy trabajando en this page. 
+- 🔭 Actualmente estoy trabajando en el desarrollo de un E-commerce
+
+- 📚: Actualmente estoy aprendiendo  MongoDB y profundizando mis conocimientos en Ingles
+
+- 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte
 
 
 
