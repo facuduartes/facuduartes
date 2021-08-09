@@ -36,9 +36,9 @@
  ---
  <h3>Recipes Food App</h3>
  <a href="https://github.com/facuduartes/Recipes-Food-App">
- <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=facuduartes&repo=Recipes-Food-App&show_owner=true" />
+ <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=facuduartes&repo=Recipes-Food-App&show_owner=true &theme=dark" />
 </a>
 
 ---
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=facuduartes&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=facuduartes&show_icons=true&theme=dark)  
