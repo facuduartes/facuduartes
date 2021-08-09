@@ -6,7 +6,7 @@
 
 
 
-<p  align="center">      Desarrollador web Full-Stack 👨‍💻, con enfasis en back-end y ambición de nuevos desafios conmucha lógica.</p>
+<p  align="center">      Desarrollador web Full-Stack 👨‍💻, con enfasis en back-end y ambición de nuevos desafios con mucha lógica.</p>
 <p  align="center"> Me defino como una persona muy curiosa , con iniciativa y mucho entusiasmo para el trabajo en equipo.</p>
            <p  align="center">Loco de la coctelería 🍹 y amante del café ☕ . </p>
 
