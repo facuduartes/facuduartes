@@ -15,7 +15,7 @@
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de un E-commerce
 
-- 📚: Actualmente estoy aprendiendo  MongoDB y profundizando mis conocimientos en Ingles
+- 📚: Tecnologías por  aprender: React Native, Python.
 
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte
 
