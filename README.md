@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 Actualmente estoy trabajando en el desarrollo de un E-commerce
+- 🔭 Desarrollador en Stefanini
 
 - 📚: Tecnologías por  aprender: React Native, Python.
 
