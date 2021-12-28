@@ -15,7 +15,7 @@
 
 - 🔭 Desarrollador en Stefanini
 
-- 📚: Tecnologías por  aprender: React Native, Python.
+- 📚: Tecnologías por  aprender: Vue, Typescript.
 
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte
 
