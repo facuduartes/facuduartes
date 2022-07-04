@@ -13,9 +13,8 @@
 
 ---
 
-- 🔭 Desarrollador en Stefanini
+- 🔭 Desarrollador Web Full Stack en Stefanini
 
-- 📚: Tecnologías por  aprender: Vue, Typescript.
 
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte
 
