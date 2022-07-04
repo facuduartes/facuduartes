@@ -24,7 +24,7 @@
 <h3>Contactos</h3>
 
 
- <img src='https://www.flaticon.es/icono-gratis/linkedin_145807?term=linkedin&page=1&position=3&page=1&position=3&related_id=145807&origin=search' alt='linkedin' height='40'>(https://www.linkedin.com/in/facundo-duartes-dev//)-              
+ [<img src='https://www.flaticon.es/icono-gratis/linkedin_145807?term=linkedin&page=1&position=3&page=1&position=3&related_id=145807&origin=search' alt='linkedin' height='40'>](https://www.linkedin.com/in/facundo-duartes-dev//)*             
 
  [<img src='https://image.flaticon.com/icons/png/512/281/281769.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//)   
 
