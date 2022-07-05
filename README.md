@@ -26,7 +26,7 @@
 
  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/facundo-duartes-dev//)*             
 
- [<img src='https://www.flaticon.es/icono-gratis/gmail_732200?term=gmail&page=1&position=1&page=1&position=1&related_id=732200&origin=search' alt='gmail' height='40'>] 
+ [<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt='gmail' height='40'>] 
 
 <h3>Soft Skills</h3>
 
