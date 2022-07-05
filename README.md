@@ -18,7 +18,7 @@
 
 - 💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte
 
--📚 Mis mejores habilidades: Back-End (Javascript,Node.js, Nest.js, SQL - NO SQL )
+- 📚 Mis mejores habilidades: Back-End (Javascript,Node.js, Nest.js, SQL - NO SQL )
 
 
 <h3>Contactos</h3>
