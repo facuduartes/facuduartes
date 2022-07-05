@@ -24,20 +24,37 @@
 <h3>Contactos</h3>
 
 
- [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/facundo-duartes-dev//) *             
+ [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/facundo-duartes-dev//) ----    [<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt='gmail' height='40'>](mailto:facundo.axeld@gmail.com)             
 
- [<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt='gmail' height='40'>](mailto:facundo.axeld@gmail.com) 
+ linkedin - Gmail
 
 <h3>Soft Skills</h3>
 
- [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//)  * [<img src='https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) * [<img src='https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) *[<img src='https://www.pablocabeza.xyz//assets/images/tecnologias/react.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) * [<img src='https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) * [<img src='https://img.icons8.com/color/452/html-5--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) * [<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) * [<img src='https://img2.freepng.es/20180816/wjj/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2670562.190553501534430898422.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) *  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//) * [<img src='https://e7.pngegg.com/pngimages/410/82/png-clipart-mongodb-inc-nosql-document-oriented-database-business-text-people.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/facundo-duartes-dev//)
- 
- ---
- <h3>Recipes Food App</h3>
- <a href="https://github.com/facuduartes/Recipes-Food-App">
- <img align="center" src="https://github-readme-stats-nine-flax.vercel.app/api/pin?username=facuduartes&repo=Recipes-Food-App&show_owner=true &theme=dark" />
-</a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
 
----
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+
+
+
+![RedHat](https://img.shields.io/badge/-RedHatOpenShift-05122A?style=flat&logo=RedHatOpenShift)&nbsp;
+
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=facuduartes&show_icons=true&theme=dark)  
